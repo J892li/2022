@@ -1029,19 +1029,18 @@ a {
     left: -1rem;
   }
 }
-.cid-t0XuTBvD2V {
+.cid-t7JD6fRQ7G {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #000000;
 }
-@media (max-width: 991px) {
-  .cid-t0XuTBvD2V .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-t0XuTBvD2V .row {
-  flex-direction: row-reverse;
-}
-.cid-t0XuTBvD2V img {
+.cid-t7JD6fRQ7G .video-wrapper iframe {
   width: 100%;
+}
+.cid-t7JD6fRQ7G .mbr-section-title,
+.cid-t7JD6fRQ7G .mbr-section-subtitle,
+.cid-t7JD6fRQ7G .mbr-text {
+  text-align: center;
 }
 .cid-seElMoyIQG {
   padding-top: 9rem;
