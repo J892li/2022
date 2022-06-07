@@ -958,7 +958,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sfusuhJ6v9 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1029,8 +1029,19 @@ a {
     left: -1rem;
   }
 }
-.cid-t8242cwjTO {
-  background-image: url("../../../assets/images/frame-1.png");
+.cid-t82aEzBNpt {
+  background-color: #000000;
+}
+@media (max-width: 991px) {
+  .cid-t82aEzBNpt .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t82aEzBNpt .row {
+  flex-direction: row-reverse;
+}
+.cid-t82aEzBNpt img {
+  width: 100%;
 }
 .cid-seElMoyIQG {
   padding-top: 9rem;
@@ -1708,7 +1719,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sfusuhJ6v9 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2240,7 +2251,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sfusuhJ6v9 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2904,7 +2915,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sgqVEcOUy8 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3355,7 +3366,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-si8mzwjd3s button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3702,7 +3713,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sfusuhJ6v9 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4638,7 +4649,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-t0RN0gX19q button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5289,7 +5300,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-t7JENNGPKg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5941,7 +5952,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-t7PRwniLGg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
